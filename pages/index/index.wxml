@@ -1,37 +1,148 @@
-<view class="course-card">
-  <view>
-    <image src="../../image/0-3.png" mode="widthFix" />
-  </view>
-  <view>人人都会小程序实战</view>
-  <view class="price">免费</view>
-</view>
+<view class="body">
+  <view class="head">头部</view>
 
-<view class="course-card widthFix">
-  <view>
-    <image src="../../image/0-3.png" mode="widthFix" />
-  </view>
-  <view>人人都会小程序实战</view>
-  <view class="price">免费</view>
-</view>
-
-<view class="course-card relative">
-  <view>
-    <image src="../../image/0-3.png" mode="widthFix" />
-  </view>
-  <view>人人都会小程序实战</view>
-  <view class="price">免费</view>
-</view>
-
-<view class="relative">
-  <view class="course-card absolute">
-    <view>
-      <image src="../../image/0-3.png" mode="widthFix" />
+  <view class="list">
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
     </view>
-    <view>人人都会小程序实战</view>
-    <view class="price">免费</view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
+    <view class="course-card">
+      <view>
+        <image src="../../image/0-3.png" mode="widthFix" />
+      </view>
+      <view>人人都会小程序实战</view>
+      <view class="price">免费</view>
+    </view>
   </view>
-</view>
 
-<!-- 相对窗口 -->
-<view class="height2000"></view>
-<view class="fixed">fix</view>
+  <view class="bottom">底部</view>
+</view>
