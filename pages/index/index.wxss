@@ -1,62 +1,36 @@
-/**index.wxss**/
-page {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
+.course-card{
+  width:50%;
+  margin:10px 0;
+  padding: 10px;
+  /* border: 10px solid #000000; */
 }
-.scrollarea {
-  flex: 1;
-  overflow-y: hidden;
-}
-
-.userinfo {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  color: #aaa;
-  width: 80%;
-}
-
-.userinfo-avatar {
-  overflow: hidden;
-  width: 128rpx;
-  height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
-}
-
-.usermotto {
-  margin-top: 200px;
-}
-
-.avatar-wrapper {
-  padding: 0;
-  width: 56px !important;
-  border-radius: 8px;
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-
-.avatar {
-  display: block;
-  width: 56px;
-  height: 56px;
-}
-
-.nickname-wrapper {
-  display: flex;
+.course-card image{
   width: 100%;
-  padding: 16px;
-  box-sizing: border-box;
-  border-top: .5px solid rgba(0, 0, 0, 0.1);
-  border-bottom: .5px solid rgba(0, 0, 0, 0.1);
-  color: black;
+  border-radius: 5px;
 }
-
-.nickname-label {
-  width: 105px;
+.price{
+  color: green;
 }
-
-.nickname-input {
-  flex: 1;
+.widthFix{
+  width: 200px;
+  padding: 20px;
+  box-sizing: border-box; /* content-box */
+}
+.relative{
+  position: relative;
+  left: 20px;
+}
+.absolute{
+  position: absolute;
+  left: 20px;
+}
+.height2000{
+  height: 2000px;
+}
+.fixed{
+  position:fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  background-color: red;
 }
