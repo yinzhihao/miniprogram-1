@@ -1,4 +1,3 @@
-
 .body{
   display: flex;
   flex-direction: column;
@@ -8,8 +7,20 @@
 background-color: #ddd;
 }
 
-.list{
+.list-wrap{
   flex-grow: 1;
+  position: relative;
+}
+
+.list{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.list-scroll-view{
   display: flex;
   flex-wrap: wrap;
   align-content: flex-start;
@@ -25,6 +36,21 @@ background-color: #ddd;
   width: 100%;
   border-radius: 5px;
 }
-.price{
-  color: green;
+.price, .active{
+  color: #23b8ff;
+}
+
+.guide{
+  display: flex;
+  justify-content: space-between;
+}
+.guide-item{
+  text-align: center;
+  font-size: 14px;
+  width: 40px;
+  line-height: 1;
+  padding: 20px;
+}
+.guide-item image{
+  width: 38px;
 }
