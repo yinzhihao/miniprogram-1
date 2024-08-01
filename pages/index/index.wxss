@@ -47,7 +47,7 @@ background-color: #ddd;
 .guide-item{
   text-align: center;
   font-size: 14px;
-  width: 40px;
+  width: 25vw;
   line-height: 1;
   padding: 20px;
 }
